@@ -1,3 +1,3 @@
 # Download and extract Apache Lucene
-wget https://downloads.apache.org/lucene/java/9.1.0/lucene-9.1.0.tgz
-tar -xzf lucene-9.1.0.tgz
+wget https://dlcdn.apache.org/lucene/java/9.10.0/lucene-9.10.0.tgz
+tar -xzf lucene-9.10.0.tgz
